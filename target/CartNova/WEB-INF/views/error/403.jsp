@@ -1,0 +1,1 @@
+<%@ include file="../common/header.jspf" %><div class="empty"><div class="eyebrow">403 · Access restricted</div><h1>You can’t access this page</h1><p><c:out value="${errorMessage}" default="Your account does not have permission to view this page."/></p><a class="btn" href="${ctx}/home">Back to CartNova</a></div><%@ include file="../common/footer.jspf" %>

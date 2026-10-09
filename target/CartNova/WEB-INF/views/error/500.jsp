@@ -1,0 +1,1 @@
+<%@ include file="../common/header.jspf" %><div class="empty"><div class="eyebrow">500 · Something went wrong</div><h1>We hit a snag.</h1><p>Please try again in a moment.</p><a class="btn" href="${ctx}/home">Back to CartNova</a></div><%@ include file="../common/footer.jspf" %>

@@ -1,0 +1,1 @@
+<%@ include file="../common/header.jspf" %><div class="empty"><div class="eyebrow">404 · Page not found</div><h1>Looks like this page moved.</h1><p>Let’s get you back to the good finds.</p><a class="btn" href="${ctx}/home">Back to CartNova</a></div><%@ include file="../common/footer.jspf" %>
